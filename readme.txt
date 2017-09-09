@@ -1,3 +1,7 @@
+Commit3
+Commit 2
+Commit1
+
 master
 
 git status
